@@ -32,10 +32,13 @@ public class TwoDice {
 	}
 }
 //새로고침할떄 자동으로 숫자가 바뀐 주사위화면이 출력됨 
-![출력1](https://user-images.githubusercontent.com/99226598/174201222-25f2bef5-feb6-4d77-b5df-69a27b97f405.png)
-![출력2](https://user-images.githubusercontent.com/99226598/174201234-0f522e0d-aa62-48de-a265-8d4cb5536a7a.png)
+
+
 
 ```
+![9985D2485C52B72E2F](https://user-images.githubusercontent.com/99226598/174201837-699be8c8-ce7d-4ed8-a31e-9081ebd04ffa.png)
+![출력2](https://user-images.githubusercontent.com/99226598/174201850-ca0a28d9-a190-4c6d-a9f0-054be9e70af0.png)
+
 # 내가 모르던 개념 
 
 ## 왜 throws IOException 을 추가할까?
