@@ -36,7 +36,7 @@ public class TwoDice {
 
 
 ```
-![9985D2485C52B72E2F](https://user-images.githubusercontent.com/99226598/174201837-699be8c8-ce7d-4ed8-a31e-9081ebd04ffa.png)
+![출력1](https://user-images.githubusercontent.com/99226598/174201882-f93bd50e-2da1-4fb8-8c3e-38210dc76b10.png)
 ![출력2](https://user-images.githubusercontent.com/99226598/174201850-ca0a28d9-a190-4c6d-a9f0-054be9e70af0.png)
 
 # 내가 모르던 개념 
