@@ -10,3 +10,16 @@
 ![상품등록 1](https://user-images.githubusercontent.com/99226598/179342627-35e6568a-56de-4631-96c1-e5db4d7c6a6b.PNG)
 ![상품상세 2](https://user-images.githubusercontent.com/99226598/179342635-a936bd45-1e7b-4777-919d-aaad11629b24.PNG)
 ![새로고침 눌렀을떄 문제3](https://user-images.githubusercontent.com/99226598/179342636-f3a4787e-81b7-4d61-ae78-10237742de8a.PNG)
+
+//기존 컨트롤러 상황 (return  주목)
+![기존 컨트롤러 상황,](https://user-images.githubusercontent.com/99226598/179342838-9b23fd05-1b41-4254-ad37-5947265cfe42.PNG)
+
+//수정 후 
+![코드 수정 후 1](https://user-images.githubusercontent.com/99226598/179342850-47f159d4-49ed-40bc-8551-e078abda2778.PNG)
+최종 결과
+
+![코드 수정 후 2, 새로고침 후](https://user-images.githubusercontent.com/99226598/179342858-7ac1d130-f2ea-45c6-909b-36c5c39545a2.PNG)
+
+
+느낀점: 웹에서 사용될 수 있는 다양한 기능을 정확하게 이해하는것의 필요성을 느낌.
+       또한, 해결책에는 무조건 새로운 코드를 만들어 기존 기능을 덮는것이 아닌 문제가 생긴 기능을 활용해 해결할 수 있는 방법이 있다는 사실을 꺠닫게 해줌 
