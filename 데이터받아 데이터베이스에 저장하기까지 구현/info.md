@@ -1,13 +1,13 @@
-클라이언트 쪽에서 “Hello, World” 문자열 데이터를 Request Body로 전송한 후에 Spring Data JDBC를 이용해서 이 “Hello, World” 문자열을 H2 데이터베이스에 저장해보기
+ > 클라이언트 쪽에서 “Hello, World” 문자열 데이터를 Request Body로 전송한 후에 Spring Data JDBC를 이용해서 이 “Hello, World” 문자열을 H2 데이터베이스에 저장해보기
 
 Hello World 샘플 코드에서 구현해야 되는 클래스 또는 인터페이스
 
-MessageDto(DTO 클래스)
-MessageController
-MessageMapper
-MessageService
-Message(엔티티 클래스)
-MessageRepository
+- MessageDto(DTO 클래스)
+- MessageController
+- MessageMapper
+- MessageService
+- Message(엔티티 클래스)
+- MessageRepository
 ```java
 // 클라이언트가 Request Body로 전달하는 “Hello, World” 문자열을 바인딩하는 DTO 클래스
 @Getter
