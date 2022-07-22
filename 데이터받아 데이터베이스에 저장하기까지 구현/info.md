@@ -100,3 +100,16 @@ public class Message {
     private String message;
 }
 ```
+- 포스트맨 요청 결과 잘 구현됨
+![hello world](https://user-images.githubusercontent.com/99226598/180449102-b46de609-a1c7-4436-91bd-e27a4077a608.PNG)
+
+
+- id 키값이 하나씩 오름
+![김용빈입니다](https://user-images.githubusercontent.com/99226598/180449195-0d6b0814-0bdb-453d-afa5-6f71c1564ee3.PNG)
+
+- 데이터 베이스에 저장완료
+
+![캡처123](https://user-images.githubusercontent.com/99226598/180449262-f6e921c8-c50b-4b1f-8bbc-ecb79e850974.PNG)
+
+
+
